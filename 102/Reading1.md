@@ -1,12 +1,23 @@
-# What is Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents
+# What is Markdown? 
+* Markdown is a lightweight markup language that you can use to add formatting elements to plaintext documents. For example, if one would like to make a certain phrase in the document bold, then the user would add two asterisks before and after the phrase in order to format it into bold letters.
+
 
 ## 1. Why do we use Markdown? 
-Markdown can be used for everything. People use it to create websitesLinks to an external site., documentsLinks to an external site., notesLinks to an external site., booksLinks to an external site., presentationsLinks to an external site., email messagesLinks to an external site., and technical documentationLinks to an external site.. Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format. Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system. Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely. Markdown is everywhere. Websites like RedditLinks to an external site. and GitHub support Markdown, and lots of desktop and web-based applications support it.
+* people use Markdown due to its versatility and ability to create documents, websites, books, notes, email messages, technical documentation and presentations. Markdown is an independent platform that can operate on any running device and is used everywhere, from web-based applications, to websites like GitHub and Reddit. Markdown is also portable and can be imported into another Markdown application with ease and future proof as Markdown will always be able to be read using current and future text editing applications.
 
-## 2. What symbol will create a heading in Markdown? : #
+## 2. What symbol will create a heading in Markdown? 
+* The symbol that is utilized to create a heading is (#) in front of a word or phrase.
 
-## 3. How many do you need to create the largest heading? 1#
-## 4. How many do you need to create the smallest heading? 6#
-## 5. When making text bold or italicized for emphasis, it is best practice to use which symbol? add two asterisks before and after it 
-## 6. How do you create a link with Markdown? Mainly, it contains two parts - the first is the page name URL, and the second name is the display text.
-## 7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? hyphen, plus sign, and asterisk
+
+## 3. How many do you need to create the largest heading? 
+
+* 1#
+## 4. How many do you need to create the smallest heading? 
+* 6#
+## 5. When making text bold or italicized for emphasis, it is best practice to use which symbol? 
+* It is best practice to use the (*) and the (_) symbols or a combination of both when making text bold or italicized for emphasis.
+
+## 6. How do you create a link with Markdown? 
+* Mainly, it contains two parts - the first is the page name URL, and the second name is the display text.
+## 7. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? 
+* The three symbols that you can create an unordered (bulleted) list on Markdown are dashes (-), plus signs (+), or asterisks (*).
