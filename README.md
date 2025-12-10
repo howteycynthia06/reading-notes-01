@@ -1,6 +1,6 @@
 # reading-notes-howtey-elbon-2025-2026
 
-## Check out my [site](https://howteycynthia06.github.io/reading-notes/)
+## Check out my [site] (https://howteycynthia06.github.io/reading-notes/)
 
 
 ## Hi, I'm Howtey!
